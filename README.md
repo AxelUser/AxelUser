@@ -18,4 +18,4 @@
 - reading
 - rock climbing
 - mountain skiing
-- programming challenges: AoC [[2022](https://github.com/AxelUser/aoc-2022), [2021](https://github.com/AxelUser/aoc-2021), [2020](https://github.com/AxelUser/AdventOfCode2020), [2017](https://github.com/AxelUser/advent-of-code-2017)], [LeetCode](https://github.com/AxelUser/leetcode-kt)
+- programming challenges: AoC [[2023](https://github.com/AxelUser/aoc-2023-kt), [2022](https://github.com/AxelUser/aoc-2022), [2021](https://github.com/AxelUser/aoc-2021), [2020](https://github.com/AxelUser/AdventOfCode2020), [2017](https://github.com/AxelUser/advent-of-code-2017)], [LeetCode](https://github.com/AxelUser/leetcode-kt)
