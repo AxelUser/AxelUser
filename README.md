@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 😐 **Facts about me:**
-- Software Engineer since 2014
-- currently working at [@infobip](https://github.com/infobip)
-- ex. [Veeam](https://www.veeam.com/), [@skbkontur](https://github.com/skbkontur)
+- programming for fun and profit since 2014
+- currently Senior Software Engineer @ [Infobip](https://github.com/infobip)
+- ex. [Veeam](https://www.veeam.com/), [SkbKontur](https://github.com/skbkontur)
 
 👀 **Professional interests:**
 - Distributed systems
