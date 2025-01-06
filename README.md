@@ -12,7 +12,7 @@
 
 🔨 **What I'm doing:**
 - lazy [tech-blogger](https://www.maltsev.space/)
-- [CarryFit](https://axeluser.github.io/carry-fit/) - Online carry-on luggage compliance checker
+- [CarryFit](https://carryon.fit/) - Online carry-on luggage compliance checker
 - [MongoTransit](https://github.com/AxelUser/MongoTransit) - tool for transferring data between MongoDB clusters
 
 🔥 **Hobbies:**
