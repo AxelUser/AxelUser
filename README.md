@@ -13,6 +13,7 @@
 🔨 **What I'm doing:**
 - lazy [tech-blogger](https://www.maltsev.space/)
 - [CarryFit](https://carryon.fit/) - Online carry-on luggage compliance checker
+- [HumbleHire](https://humblehire.maltsev.space/) - A humble set of tools to make your job search less stressful
 - [MongoTransit](https://github.com/AxelUser/MongoTransit) - tool for transferring data between MongoDB clusters
 
 🔥 **Hobbies:**
