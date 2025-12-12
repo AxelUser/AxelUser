@@ -1,0 +1,198 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/avsmirnov567/jobSkillsAnalytics/commit/a3812e333f59df01c28f74861346e5a252dcd242\"><strong>a</strong>3812e333f59df01c28f74861346e5a252dcd242</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/AxelUser/Frontend-Engineer-Roadmap/commit/abdcd5a9b6b3fd19e4f626ac805565fe9a5835de\"><strong>ab</strong>dcd5a9b6b3fd19e4f626ac805565fe9a5835de</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/AxelUser/blog/commit/5dcafe0d9b4380143df7f909f8e9c4ad4c9676ab\">5d<strong>cafe</strong>0d9b4380143df7f909f8e9c4ad4c9676ab</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/d418940f3ac4d0a1b3b44f35c53e190041186a2f\">d418940</a>: chore: think about test later",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/811275227dc0b1965f78d532f6033b45a63bafe8\">8112752</a>\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/b1cc65b398e802213d58fc38d2fa319773e9ac93\">b1cc65b</a>\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/b1d45594777854ae352027da6e2a6cc1760e69e9\">b1d4559</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/leetcode-kt/commit/6567b647063469849c41c8586a136a29c729ef35\">6567b64</a>\n- <a href=\"https://github.com/AxelUser/blog/commit/26bd8a27e935f629738d7bebd328bf6fd94fd346\">26bd8a2</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/636d3e093d403c6cf70e1846d7ea83cb7c71e70a\">636d3e0</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/167f79ccf472626c867bd5523f22bd9442aa3596\">167f79c</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/0328970a08b44b25eff4979d24d8ea5f0c5f779e\">0328970</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/bf26ff21f8aef58d9471216f66fdd8739ce297d0\">bf26ff2</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/a93788e6effc7fde9c6fa64c14aba6b3f9130e6d\">a93788e</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/1311bfb55a188c261467012375ab12301df24a91\">1311bfb</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/c8d53ab349716c1bcb78687980f41ad0b2898339\">c8d53ab</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/868b68830e522221a15ad9328b0b65879c88e3a0\">868b688</a>\n- <a href=\"https://github.com/AxelUser/MongoTransit/commit/d12974558e723be7c97a92fe1c69d1d4cc0e94d0\">d129745</a>\n- <a href=\"https://github.com/AxelUser/MongoTransit/commit/32bd569895efc4c4d6e0f673b8919c51babe96b9\">32bd569</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"added\".",
+    "body": "My favorite commit message words are:\n\n1. added (used 383 times)\n2. solved (used 243 times)\n3. tests (used 126 times)\n4. fixed (used 119 times)\n5. day (used 114 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/6edafe82e23df6148af189090804f47c4e8cbee8\">6edafe8</a>: fix: pre-rendering\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/6ef7a05a450ef05f51104237a5782a74ea4345b6\">6ef7a05</a>: fix: better drag and drop",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/ac1f6baa6f64dc68ebf39ac92df39b78da797b47\">ac1f6ba</a>: fix: alignment for article hero\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/5eaa1b56664233881c7406a96711a7489c6c6989\">5eaa1b5</a>: fix: minor clarifications on the formula of error rate for Cuckoo Filter\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/fcf91daf14de2943831a8830da0e9f460d622d9b\">fcf91da</a>: fix: typos",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/787679fdf4385020e7d4342cc3eb23ec5543b68b\">787679f</a>: fix: added github pages fallback 404 page\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/fc77718d6edfdb4cb066a60744b6f013dcdbe3a9\">fc77718</a>: fix: changed website url to improve rss feed\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/f99fd83ef1bf1becee1f1d0a00c8b01afbad5a87\">f99fd83</a>: fix: rss feed\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/c3b1bb7fe316eeb8d61654559e6edb73acbc4f0a\">c3b1bb7</a>: fix: gh-actions permissions",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/BearBasket/commit/8f5bea60106863139610ab1c99bee3cdd650232b\">8f5bea6</a>\n- <a href=\"https://github.com/AxelUser/BearBasket/commit/2831c7e2d341b7515268ce31bb7f204bef90f4e8\">2831c7e</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/slides/commit/f40675de949f0fb1b850e46bb88e1630198c8e27\">f40675d</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/examples/commit/322bd796e45090dbcfb607bec46f64f21371ddc5\">322bd79</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/zhongkaifu/RNNSharp/issues/12\">#12</a>: Some kind of cold start\n- <a href=\"https://github.com/deeplearning4j/deeplearning4j-examples/issues/114\">#114</a>: How can I denine multiple labels in trainig set to use at Deeplearning4j\n- <a href=\"https://github.com/alexrainman/CarouselView/issues/403\">#403</a>: [XF.Android] CarouselViewControl does't appear",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/xamarin/Xamarin.Forms/pull/6468\">#6468</a>: [UWP] Fixes jumps at scroll view",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/xamarin/Xamarin.Forms/pull/3113\">#3113</a>: Implemented scrolling disabling for ScrollView via ScrollOrientation.Neither",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/aoc-2023-kt/commit/eaf47d34a274b8366ced923ac911d4cd5b99b0d4\">eaf47d3</a>\n- <a href=\"https://github.com/AxelUser/dis-final-work/commit/ec178a355f7efd7faa366c6c99f414b772fc14a6\">ec178a3</a>\n- <a href=\"https://github.com/AxelUser/dis-final-work/commit/fd88335a228b9f690e37fe809629b095d5448198\">fd88335</a>\n- <a href=\"https://github.com/AxelUser/dis-final-work/commit/47e77a9324eb14364918f16e4a9b41cc3e67da65\">47e77a9</a>\n- <a href=\"https://github.com/AxelUser/dis-final-work/commit/ea2b2814a6e1a8ebcbf062d30c23a4722bb393da\">ea2b281</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/leetcode-kt/commit/5dfa8a512e4b9814847f21a91917ba8a2cb96e88\">5dfa8a5</a>\n- <a href=\"https://github.com/AxelUser/leetcode-kt/commit/c1368759b1774ea3016f89cff4cfb2edbc1dc5a3\">c136875</a>\n- <a href=\"https://github.com/AxelUser/leetcode-kt/commit/b8f152392117da4d7b99de4bf36c934b0bd35833\">b8f1523</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/AxelUser/carry-fit/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/b1cc65b398e802213d58fc38d2fa319773e9ac93\">b1cc65b</a>\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/5fe55ff8f549226fdc74c6fda56e9186451787d2\">5fe55ff</a>\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/f64903b7c77f6c3c565829aab6f5213c12da51e0\">f64903b</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/530b0381a32cac86201750a0d23bf9b0c2ec9081\">530b038</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/a93788e6effc7fde9c6fa64c14aba6b3f9130e6d\">a93788e</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/6c437697dc1adc33ba10eabcdd78835f78314f6f\">6c43769</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/39f3257f4414ca694985c34db02ba0ea529d307a\">39f3257</a>\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/35bf51c5ce73d44d17a495f31c5bf55cb3718a61\">35bf51c</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/a982f839d995ae399a24070b36ec6187318fc97e\">a982f83</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/05e73f705673f8e0ebc589773730653ddf4e6d36\">05e73f7</a>\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/a89f2a9c7bb4cd9bcc66a04eff9068cb80bd5d63\">a89f2a9</a>\n- <a href=\"https://github.com/AxelUser/blog/commit/44f0648ceeda346ebcf736d4b3633126b9ae7af0\">44f0648</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/HumbleHire/commit/497fc78885d7ae2b94564d0d6e8c47289ced1b3f\">497fc78</a>\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/5eaa1b56664233881c7406a96711a7489c6c6989\">5eaa1b5</a>\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/276254f29056425a3c1ebabe6be1b51b6422651b\">276254f</a>\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/cec46fab5c1cfd0b34db31b3193ecfd5c4825863\">cec46fa</a>\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/2a5b47fbdc8a9ebf8826a1ab3ca7f701bf388df3\">2a5b47f</a>\n- <a href=\"https://github.com/AxelUser/maltsev.space/commit/227d5614381773ab3c423859d5c6d8721b0d4685\">227d561</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/d0a4cb68400ff580707aaa0066f0e5e9b2b11713\">d0a4cb6</a>\n- <a href=\"https://github.com/AxelUser/slides/commit/448e8142a99b639010e0bda5e801c51bc2bda9d9\">448e814</a>\n- <a href=\"https://github.com/AxelUser/aoc-2023-kt/commit/2d487959b99c5220715cfa5e3ab9f06504a0ab39\">2d48795</a>\n- <a href=\"https://github.com/AxelUser/aoc-2023-kt/commit/c3dd4e68e18c3098dcee3af8aa50d1208b3cf0ad\">c3dd4e6</a>\n- <a href=\"https://github.com/AxelUser/leetcode-kt/commit/be2d8e4ab554346eec6e8d687ef9feb628e5ed0e\">be2d8e4</a>\n- <a href=\"https://github.com/AxelUser/blog/commit/0f8a2b23f8e5feae6f404897e4e9fa8a0c1b1bcb\">0f8a2b2</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
