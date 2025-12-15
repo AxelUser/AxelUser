@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/AxelUser/carry-fit/commit/96836a0707fc35bb32ec4653d3d8532b844d10fc">96836a0</a>
+- <a href="https://github.com/AxelUser/carry-fit/commit/cdd35f7d61930b934e883a1610ab856b3e20e7ce">cdd35f7</a>
 - <a href="https://github.com/AxelUser/HumbleHire/commit/497fc78885d7ae2b94564d0d6e8c47289ced1b3f">497fc78</a>
 - <a href="https://github.com/AxelUser/maltsev.space/commit/5eaa1b56664233881c7406a96711a7489c6c6989">5eaa1b5</a>
 - <a href="https://github.com/AxelUser/maltsev.space/commit/276254f29056425a3c1ebabe6be1b51b6422651b">276254f</a>
 - <a href="https://github.com/AxelUser/maltsev.space/commit/cec46fab5c1cfd0b34db31b3193ecfd5c4825863">cec46fa</a>
-- <a href="https://github.com/AxelUser/maltsev.space/commit/2a5b47fbdc8a9ebf8826a1ab3ca7f701bf388df3">2a5b47f</a>
-- <a href="https://github.com/AxelUser/maltsev.space/commit/227d5614381773ab3c423859d5c6d8721b0d4685">227d561</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
