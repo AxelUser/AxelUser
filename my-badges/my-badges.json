@@ -194,5 +194,19 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/carry-fit/commit/d0a4cb68400ff580707aaa0066f0e5e9b2b11713\">d0a4cb6</a>\n- <a href=\"https://github.com/AxelUser/slides/commit/448e8142a99b639010e0bda5e801c51bc2bda9d9\">448e814</a>\n- <a href=\"https://github.com/AxelUser/aoc-2023-kt/commit/2d487959b99c5220715cfa5e3ab9f06504a0ab39\">2d48795</a>\n- <a href=\"https://github.com/AxelUser/aoc-2023-kt/commit/c3dd4e68e18c3098dcee3af8aa50d1208b3cf0ad\">c3dd4e6</a>\n- <a href=\"https://github.com/AxelUser/leetcode-kt/commit/be2d8e4ab554346eec6e8d687ef9feb628e5ed0e\">be2d8e4</a>\n- <a href=\"https://github.com/AxelUser/blog/commit/0f8a2b23f8e5feae6f404897e4e9fa8a0c1b1bcb\">0f8a2b2</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/leetcode-kt/commit/7903001ce3adf058a87309c47296c5709d8bcc10\">7903001</a>\n- <a href=\"https://github.com/AxelUser/SRCNN/commit/a740f0ed3c9183e930bdd5f79298b8e78bf67c4b\">a740f0e</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/blog/commit/fab4218b0b49951101f31a21f1904530182c0edf\">fab4218</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
