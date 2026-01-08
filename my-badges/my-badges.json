@@ -198,7 +198,7 @@
   {
     "id": "may-the-4th",
     "tier": 0,
-    "desc": "May the 4th be with you! Commits of force:",
+    "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/leetcode-kt/commit/7903001ce3adf058a87309c47296c5709d8bcc10\">7903001</a>\n- <a href=\"https://github.com/AxelUser/SRCNN/commit/a740f0ed3c9183e930bdd5f79298b8e78bf67c4b\">a740f0e</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
@@ -208,5 +208,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/blog/commit/fab4218b0b49951101f31a21f1904530182c0edf\">fab4218</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AxelUser/maelstrom-walkthrough/commit/5161b8a4f2f5b86117bebae005d23e728d4829d4\">5161b8a</a>\n- <a href=\"https://github.com/AxelUser/maelstrom-walkthrough/commit/004fd19309d005b5dec58a847719c971f0ee999a\">004fd19</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   }
 ]
