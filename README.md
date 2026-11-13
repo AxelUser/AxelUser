@@ -2,8 +2,8 @@
 
 😐 **Facts about me:**
 - programming for fun and profit since 2014
-- currently Senior Software Engineer @ [Infobip](https://github.com/infobip)
-- ex. [Veeam](https://www.veeam.com/), [SkbKontur](https://github.com/skbkontur)
+- currently Senior Software Engineer @ [JetBrains](https://www.jetbrains.com/)
+- ex. [Infobip](https://github.com/infobip), [Veeam](https://www.veeam.com/), [SkbKontur](https://github.com/skbkontur)
 
 👀 **Professional interests:**
 - Distributed systems
